@@ -37,6 +37,7 @@ app.get("/*", function(req, res) {
   res.sendFile(path.join(__dirname, "..", "client", "build", "index.html"));
 });
 
+if(process.env.SLACK_WEBHOOK){
 // RUN EVERY DAY AT 7 AM
 schedule.todayBookings;
 
@@ -45,6 +46,7 @@ schedule.overdueFixtures;
 
 /* Outstanding payment reminder to post at 7am every monday */
 schedule.outstandingPayments;
+}
 
 app.listen(PORT, () => {
   console.log("Express is listening on port: " + PORT);
