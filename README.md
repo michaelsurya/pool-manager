@@ -57,9 +57,9 @@ In addition to fixing the problems of the old system, this product has extra fea
 
 ### **Made By**
 
-- Matthew Pollard - [GitHub](github.com/POLYGON98)
-- Michael Putra - [GitHub](github.com/michaelsurya)
-- Natalie Hargreaves - [GitHub](github.com/nhargreaves)
+- Matthew Pollard - [GitHub](https://github.com/POLYGON98)
+- Michael Putra - [GitHub](https://github.com/michaelsurya)
+- Natalie Hargreaves - [GitHub](https://github.com/nhargreaves)
 
 ### **Built With:**
 
